@@ -1,0 +1,42 @@
+.best{
+    background-color: #ff6347;
+    text-align: center;
+    padding: 3px;
+    width: 102%;
+    
+}
+
+/* .new{
+    background-color: #ff6347;
+    text-align: center;
+    padding: 3px;   
+    
+} */
+
+h1{
+    color:white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    
+}
+
+.logo{
+    width: 10px 20 px;
+    list-style-type: none;    
+}
+
+.prod{
+    list-style-type: none;
+    display: flex;
+    flex: 20px;
+    justify-content: space-around;
+    /* align-items: center;  */
+    align-items: flex-start; 
+    padding: 0px;
+    margin: 2px;
+}
+#wc{
+    width: 101%; 
+    border-image: stretch;
+
+}
